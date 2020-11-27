@@ -1,0 +1,10 @@
+com/example/smslistenerapp/SmsReceiver.java
+ com.example.smslistenerapp.SmsReceiver
+com/example/smslistenerapp/BuildConfig.java
+ com.example.smslistenerapp.BuildConfig
+com/example/smslistenerapp/SmsReceiverActivity.java
+ com.example.smslistenerapp.SmsReceiverActivity
+com/example/smslistenerapp/PermissionManager.java
+ com.example.smslistenerapp.PermissionManager
+com/example/smslistenerapp/MainActivity.java
+ com.example.smslistenerapp.MainActivity
