@@ -1,0 +1,8 @@
+com/example/myreadwritefile/FileModel.java
+ com.example.myreadwritefile.FileModel
+com/example/myreadwritefile/MainActivity.java
+ com.example.myreadwritefile.MainActivity
+com/example/myreadwritefile/FileHelper.java
+ com.example.myreadwritefile.FileHelper
+com/example/myreadwritefile/BuildConfig.java
+ com.example.myreadwritefile.BuildConfig
